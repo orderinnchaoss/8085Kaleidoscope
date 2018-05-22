@@ -1,4 +1,4 @@
-# 8085Kaleidoscope Under the guidance of Professor D.V.Gadre
+# 8085 Kaleidoscope Under the guidance of Professor D.V.Gadre
 This contains files 8085 
 
 Includes
