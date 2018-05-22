@@ -1,9 +1,14 @@
-# 8085Kaleidoscope Under Professor D.V.Gadre
+# 8085Kaleidoscope Under the guidance of Professor D.V.Gadre
 This contains files 8085 
+
 Includes
-1)Schematics and BoardFiles
+
+1)Schematics and Board Files
+
 2)Main Code(Text,Hex,Bin)
+
 3)Report
+
 4)Program Flowchart
 
 Can be reproduced with permission, by the contacts under
