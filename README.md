@@ -19,12 +19,12 @@ LOOP:	   MVI A,C3
 	   ANI 07
 	   CMP B
 	   JZ LOOP
-                           MVI D,FFH
-DELAY:               MVI E,FFH
-DELAY1:            DCR E
-                           JNZ DELAY1
-                           DCR D
-                           JNZ DELAY            
+           MVI D,FFH
+DELAY:     MVI E,FFH
+DELAY1:    DCR E
+           JNZ DELAY1
+           DCR D
+           JNZ DELAY            
 	   MOV B,A
 	   MVI A,43
 	   OUT 80
