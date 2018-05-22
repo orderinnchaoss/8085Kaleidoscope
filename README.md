@@ -11,6 +11,8 @@ Includes
 
 4)Program Flowchart
 
+5)Bill of Material
+
 Can be reproduced with permission, by the contacts under
 
 Made by 
